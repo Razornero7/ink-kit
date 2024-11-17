@@ -1,4 +1,4 @@
-# ink-kit
+# ink-kitnpm install @inkonchain/ink-kit
 
 Ink Kit
 
